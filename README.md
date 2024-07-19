@@ -42,6 +42,6 @@ To clone this project, follow these steps:
 2. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/Dom7k/CICD-Pipeline-with-AWS-CodePipeline.git
+   git clone https://github.com/willie191998/CICD-Pipeline-with-AWS-CodePipeline.git
    cd CICD-Pipeline-with-AWS-CodePipeline
 
